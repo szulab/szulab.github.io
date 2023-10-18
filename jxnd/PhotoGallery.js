@@ -108,6 +108,7 @@ class PhotoGallery {
             var length = url.lastIndexOf('?');
             var imgUrl = url.substr(0,length);//文件最终路径
             console.log(url.substr(0,length));
+            alert("上传成功！");
           }).catch((err) => {
             console.log(err);
           });
