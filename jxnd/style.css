@@ -14,7 +14,7 @@
     cursor: pointer;
     border-radius: 5px;
     transition: background-color 0.3s ease;
-    margin: 1px;
+    margin: 0px;
     font-family: serif; /* 使用衬线字体 */
     font-size: 13px; /* 修改文字大小 */
     font-weight: bold; /* 修改字体粗细 */
