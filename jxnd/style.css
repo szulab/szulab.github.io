@@ -15,7 +15,7 @@
     border-radius: 5px;
     transition: background-color 0.3s ease;
     margin: 0px;
-    font-family: serif; /* 使用衬线字体 */
+    font-family: 'Open Sans', sans-serif; /* 使用Google字体"Open Sans" */
     font-size: 13px; /* 修改文字大小 */
     font-weight: bold; /* 修改字体粗细 */
     text-decoration: none; /* 移除文字装饰 */
